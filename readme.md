@@ -69,6 +69,4 @@ Para excluir uma tarefa, é possível arrastar a tarefa para a esquerda ou para 
 ## :octocat: Desenvolvedores
 
 * **Daniel**
-* **Levi Pinott**
-* **Analice Leite**
 
