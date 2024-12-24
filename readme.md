@@ -42,7 +42,7 @@ O lado do cliente pode ser aberto tanto na web, quanto no celular usando o aplic
 Com Android Stúdio instalado e o projeto em execução, você deve primeiro abrir um novo dispositivo virtual e após isso você pode pressionar a tecla A no terminal onde o projeto está sendo executado, então o programa irá instalar todas as dependências necessárias no emulador e o aplicativo já estará disponível para uso.
 
 ### **Backend**
-#### 🔴 5. Executar backend
+#### 🔴 4. Executar backend
 Para o backend executar o backend, com o reposiório já clonado, você pode executar os seguintes comandos:
 
       cd backend
