@@ -49,28 +49,18 @@ Para o backend executar o backend, com o reposiório já clonado, você pode exe
       npm run start
       npm run dev
 
-## :computer: Interface
-![image](https://github.com/user-attachments/assets/36166ff9-4fda-40cc-8cbf-ef36ea458bc7)
+#### 🔴 5. Configurar IP do servidor
+Por fim, não esqueça de configurar o IP do seu servidor no frontend, pois diferente de aplicações localhost, o Expo funcionará em LAN. Você pode configurar o IP pelo arquivo [```common.js```](frontend/src/common.js) no frontend.
 
-Esta é a tela principal do aplicativo, onde você pode gerenciar as suas tarefas.
+![image](https://github.com/user-attachments/assets/0da2d592-839c-426f-9c57-7f1405b7a799)
 
-![image](https://github.com/user-attachments/assets/ef6819e0-a753-4f32-9796-5eb263d5a84d)
+A partir desta etapa você já poderá se aproveitar o applicativo!
 
-Toda tarefa pode ser marcada como concluída, como apresentado acima.
+## ✒️ Licença 
 
-![image](https://github.com/user-attachments/assets/84508431-0822-47bb-8199-e0376e83e0f3)
+O projeto Tasks está sobre a licença [```MIT LICENSE```](LICENSE).
 
-Ao pressionar o botão de "+" no canto inferior direito da tela, ou pequeno modal irá aparecer para que você possa criar uma nova tarefa. Nesta modal você pode adicionar uma data de entrega da tarefa, além de uma curta descrição.
-
-![image](https://github.com/user-attachments/assets/452b8a1b-8dc7-4c94-8196-24f260bc3b3b)
-
-Ao pressionar o ícone de olho no canto superior direito, você pode trocar a disposição das tarefas para mostrar apenas tarefas pendentes.
-
-![image](https://github.com/user-attachments/assets/ec31c160-e811-4740-9576-426f1a81511f)
-
-Para excluir uma tarefa, é possível arrastar a tarefa para a esquerda ou para a direita.
-
-## :octocat: Desenvolvedores
+## :octocat: Desenvolvedor
 
 * **Daniel**
 
