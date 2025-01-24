@@ -1,4 +1,4 @@
-import { Alert, Platform } from "react-native";
+import { Alert } from "react-native";
 
 const server = "<ip_server>:3000";
     
